@@ -2,8 +2,9 @@
 Solar powered weather station over mqtt
 
 ## Sketch
-
 ![alt text](https://github.com/poetter-sebastian/Solar-Weatherstation/blob/main/img/circuit.png "Sketch of the system")
+
+See [circuit-diagram.org](https://www.circuit-diagram.org/editor/) with .cddx save file
 
 ## Used hardware
 Here is the list of the used hardware for the system.
@@ -23,7 +24,7 @@ Here is the list of the used hardware for the system.
 * PVC pipe
 
 ## 3D print models
-[Source](https://www.thingiverse.com/thing:1985125).
+[Source](https://www.thingiverse.com/thing:1985125)
 
 <img src="https://github.com/poetter-sebastian/Solar-Weatherstation/blob/main/img/preview.jpg" width="400">
 
