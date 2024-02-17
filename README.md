@@ -9,18 +9,18 @@ See [circuit-diagram.org](https://www.circuit-diagram.org/editor/) with .cddx sa
 ## Used hardware
 Here is the list of the used hardware for the system.
 * RGB-LED
-* 1x 16A 15V schottky diode
-* ESP8266 Mode-MCU Board
-* MBP280
-* DHT22
-* Rainfall-Sensor
-* CD4016B Switch
+* [1x 16A 15V schottky diode](https://www.associatedelectrics.com/teamassociated/parts/details/745-ASC745-schottky_diode/#specs "1x 16A 15V schottky diode")
+* ![ESP8266 NodeMCU Lolin V3](https://www.instructables.com/Get-Started-With-ESP8266-NodeMCU-Lolin-V3/ "NodeMCU Lolin V3")
+* ![MBP280](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp280-ds001.pdf "MBP280") 
+* ![DHT22](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf "DHT22") 
+* ![Rainfall sensor](https://lastminuteengineers.com/rain-sensor-arduino-tutorial/ "Rainfall-Sensor")
+* ![CD4016B switch](https://www.ti.com/lit/ds/symlink/cd4016b.pdf?ts=1708078054102 "CD4016B Switch")
 * 1x10K Ohm resistor
-* 3.3V to 12V Boost transformator
-* Anemometer
-* 5V Solar cell
-* 18650 Battery
-* TP4056 Battery charger
+* [DC-DC MT3608 step up booster 3.3v to 12v](https://components101.com/sites/default/files/component_datasheet/MT3608-Step-Up-Power-Module-Datasheet.pdf "DC-DC MT3608 step up booster")
+* ![Anemometer](https://www.adafruit.com/product/1733#technical-details "Anemometer") 
+* 4x 5V Solar cell
+* 4x 18650 Battery
+* ![TP4056 Battery charger](https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf "TP4056 Battery charger")  
 * PVC pipe
 
 ## 3D print models
